@@ -2,11 +2,12 @@
 This is the first part introduction for the example Jenkins CI/CD process.
 
 This README is used to introduce teams to Docker, containerization, multi-stage builds, and docker-compose to our appdev teams. 
-The multi-stage angular project mostly references the project in this [blog post](https://dev.to/avatsaev/create-efficient-angular-docker-images-with-multi-stage-builds-1f3n); however, additional details are added regarding docker commands/components, setting container environment variables, and leveraging docker-compose.
+
+The multi-stage angular project references this [blog post](https://dev.to/avatsaev/create-efficient-angular-docker-images-with-multi-stage-builds-1f3n) for the most of the docker image build with a few annotations. Additional details to the post are added regarding docker commands/components, setting container environment variables, and leveraging docker-compose.
 
 1. Example Angular Project - Docker Example (You are here)
-2. [Example Angular Project - Create Deployment Objects with Terraform and Docker-Compose]()
-3. [Example Angular Project - Build with Jenkinsfile]()
+2. [Example Angular Project - Create Deployment Objects with Terraform and Docker-Compose](https://github.com/DimsumPanda/example-angular-project-deploy)
+3. [Example Angular Project - Build with Jenkinsfile](https://github.com/DimsumPanda/example-angular-project-build)
 4. [Example Angular Project - CNAME DNS switch]()
 
 
@@ -247,5 +248,5 @@ Remove the image by listing the images and removing it by the image_id:
 
 `$ docker rmi {image_id}`
 
-Continue to the next part in the CCS CI/CD Angular App Tutorial: [Example Angular Project - Create Deployment Objects with Terraform and Docker-Compose]()
+Continue to the next part in the CCS CI/CD Angular App Tutorial: [Example Angular Project - Create Deployment Objects with Terraform and Docker-Compose](https://github.com/DimsumPanda/example-angular-project-deploy))
 
