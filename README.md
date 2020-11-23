@@ -8,7 +8,6 @@ The multi-stage angular project references this [blog post](https://dev.to/avats
 1. Example Angular Project - Docker Example (You are here)
 2. [Example Angular Project - Create Deployment Objects with Terraform and Docker-Compose](https://github.com/DimsumPanda/example-angular-project-deploy)
 3. [Example Angular Project - Build with Jenkinsfile](https://github.com/DimsumPanda/example-angular-project-build)
-4. [Example Angular Project - CNAME DNS switch]()
 
 
 ## Table of Contents
